@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>App apk</description>
+      <initValue>'Mobile App/KFM.apk'</initValue>
+      <name>KFM</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
