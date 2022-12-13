@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>tagName_Hamil</name>
+   <name>assertPoint_Mual-Muntah</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -12,31 +12,31 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.TextView</value>
-      <webElementGuid>0e9c83e8-1a74-463a-beb2-6dec7067ea97</webElementGuid>
+      <webElementGuid>0c8773fb-c091-4909-a125-f143070382b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>224dd844-e8b3-4a00-ac57-062edefddd99</webElementGuid>
+      <value>2</value>
+      <webElementGuid>6ad2baf5-bd89-489d-a2fb-25d0cdd74a3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Test Pack</value>
-      <webElementGuid>cf9961bb-085b-4240-9fdd-34f587a35a81</webElementGuid>
+      <value>ANTIMO STRIP 10 TABLET</value>
+      <webElementGuid>8ac80030-c52d-407b-bbde-49a0d46616d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>resource-id</name>
       <type>Main</type>
-      <value>com.kimiafarma.online:id/tv_title_suggestion</value>
-      <webElementGuid>5af3e389-fd9b-48cf-8890-19b7b4ceb905</webElementGuid>
+      <value>com.kimiafarma.online:id/tv_product_name</value>
+      <webElementGuid>98a7278d-807d-406a-b56d-6f9da7ac88f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,7 +44,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.kimiafarma.online</value>
-      <webElementGuid>35a78fe1-55dd-4550-b85c-d5d62dc4e8f5</webElementGuid>
+      <webElementGuid>eb271461-49dc-4a89-a91a-5ee1e9492106</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>19cde07b-2ff3-4a70-afb4-e9a49ac732da</webElementGuid>
+      <webElementGuid>5fd3881e-b082-4d67-b25f-f40a5ebf4703</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +60,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c9e0bde1-c075-4731-aec0-ac6d793713e9</webElementGuid>
+      <webElementGuid>4f61980c-4b91-4027-ac85-c92bf68d826e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b94585de-f2fe-4877-b771-d754a7b02c0c</webElementGuid>
+      <webElementGuid>0ffa1640-8395-402b-9019-38c09d6b8eaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>4def125d-1a48-4a7d-bbd4-6b2569849b2d</webElementGuid>
+      <webElementGuid>20d449fd-e161-42be-9e46-66a54befbe17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>baa9e1f7-165b-4ca8-8033-5a23e96e5f52</webElementGuid>
+      <webElementGuid>67ebca3d-d4b1-4fb8-b8e0-6e51b006061b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>539324ff-a89c-43df-bc20-9c62a81fdf72</webElementGuid>
+      <webElementGuid>6c5610dc-7e65-49e2-88e2-ca6420f6f4c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>48b7ba29-888b-4b74-9cc3-36e79f25abca</webElementGuid>
+      <webElementGuid>1fcf2513-327c-437b-9ea6-5bf0f87a38aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>31149ac0-124c-4e87-b136-ced3136d4730</webElementGuid>
+      <webElementGuid>9d1ab140-2192-406a-91db-6abd67b0cd19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>2b0680dc-1634-4fc7-a69c-b743c072546b</webElementGuid>
+      <webElementGuid>de3e35a3-2b06-479a-a73e-5baa41e2642b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -124,47 +124,47 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1cbc1cc4-acc4-4af8-87c1-f1e2de9dfdd5</webElementGuid>
+      <webElementGuid>0104c9a1-8b8c-4e60-bc7b-928ce8b44eec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>170</value>
-      <webElementGuid>3ecc688a-ad43-47aa-8868-d996c37b236b</webElementGuid>
+      <value>58</value>
+      <webElementGuid>5edbf4bf-a174-4762-aa1f-f8b3dd2abec5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>394</value>
-      <webElementGuid>26fc06a8-7f23-4e06-a453-6a9d586ff25b</webElementGuid>
+      <value>852</value>
+      <webElementGuid>375c3638-1073-4b22-8e52-4902322761f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>768</value>
-      <webElementGuid>e562c77d-a417-45b9-b626-bc669b9d73b1</webElementGuid>
+      <value>424</value>
+      <webElementGuid>f757d4b9-4c1a-4ff1-bdaf-8c0a6907c443</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>65</value>
-      <webElementGuid>e3f1f0d1-4a89-42fb-8c30-0a7df9ef6ea7</webElementGuid>
+      <value>129</value>
+      <webElementGuid>72ee1b27-4c3f-488a-bbc7-807f677d92a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[170,394][938,459]</value>
-      <webElementGuid>1e846e3b-3395-484d-be04-4c8faa20d8ec</webElementGuid>
+      <value>[58,852][482,981]</value>
+      <webElementGuid>7b4624f2-9f89-4868-aeb5-6f61edf3f00b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -172,16 +172,16 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>b2bc7eac-e9e8-4444-83aa-9ea32a4212a8</webElementGuid>
+      <webElementGuid>5c19fc81-c68f-4387-bdaa-51ad553f70b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.view.ViewGroup[2]/android.widget.TextView[1]</value>
-      <webElementGuid>75c939f8-4523-4639-af0a-de20e930aedc</webElementGuid>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.TextView[1]</value>
+      <webElementGuid>10f57f87-94df-4534-b4b5-054f74d8c85b</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.TextView' and (@text = 'Test Pack' or . = 'Test Pack') and @resource-id = 'com.kimiafarma.online:id/tv_title_suggestion']</locator>
+   <locator>//*[@class = 'android.widget.TextView' and (@text = 'ANTIMO STRIP 10 TABLET' or . = 'ANTIMO STRIP 10 TABLET') and @resource-id = 'com.kimiafarma.online:id/tv_product_name']</locator>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>
 </MobileElementEntity>

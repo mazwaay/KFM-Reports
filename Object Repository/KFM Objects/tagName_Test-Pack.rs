@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>Item_Mual-Muntah</name>
+   <name>tagName_Test-Pack</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -12,31 +12,31 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.TextView</value>
-      <webElementGuid>a3ededa6-508d-4bbf-aa6a-41d43e4ac68f</webElementGuid>
+      <webElementGuid>0e9c83e8-1a74-463a-beb2-6dec7067ea97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
-      <value>2</value>
-      <webElementGuid>8eb26f14-6043-4451-bb2a-4806a776fdac</webElementGuid>
+      <value>1</value>
+      <webElementGuid>224dd844-e8b3-4a00-ac57-062edefddd99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>STARVIT 15 ML DUS 10 SACHET</value>
-      <webElementGuid>f4fcc60f-6c08-4a58-bbb3-4ceec1c48c3c</webElementGuid>
+      <value>Test Pack</value>
+      <webElementGuid>cf9961bb-085b-4240-9fdd-34f587a35a81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>resource-id</name>
       <type>Main</type>
-      <value>com.kimiafarma.online:id/tv_product_name</value>
-      <webElementGuid>ab483e77-0726-4455-9df1-7416f3ca363b</webElementGuid>
+      <value>com.kimiafarma.online:id/tv_title_suggestion</value>
+      <webElementGuid>5af3e389-fd9b-48cf-8890-19b7b4ceb905</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,7 +44,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.kimiafarma.online</value>
-      <webElementGuid>8074f779-67eb-48df-bedd-4681dc22ea6b</webElementGuid>
+      <webElementGuid>35a78fe1-55dd-4550-b85c-d5d62dc4e8f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>dea4cc62-31df-4463-bb7c-9f129cfdcacd</webElementGuid>
+      <webElementGuid>19cde07b-2ff3-4a70-afb4-e9a49ac732da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +60,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c1532e34-6119-4de0-9128-f8c933d1d41c</webElementGuid>
+      <webElementGuid>c9e0bde1-c075-4731-aec0-ac6d793713e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3c5e6b68-6775-4ec3-ac37-dd68b8795283</webElementGuid>
+      <webElementGuid>b94585de-f2fe-4877-b771-d754a7b02c0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>54089c44-2ec9-4ed0-b0ea-17d0db39666e</webElementGuid>
+      <webElementGuid>4def125d-1a48-4a7d-bbd4-6b2569849b2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e8788cfc-ae2b-4b2c-9636-167e84904eb2</webElementGuid>
+      <webElementGuid>baa9e1f7-165b-4ca8-8033-5a23e96e5f52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ab33a279-1869-449c-816a-f10e5a00f769</webElementGuid>
+      <webElementGuid>539324ff-a89c-43df-bc20-9c62a81fdf72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>6e0b434c-6718-4b85-b564-b070c67f6dc0</webElementGuid>
+      <webElementGuid>48b7ba29-888b-4b74-9cc3-36e79f25abca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0c1e044b-b50d-4972-928c-acf772f57b79</webElementGuid>
+      <webElementGuid>31149ac0-124c-4e87-b136-ced3136d4730</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>51d069fe-2d59-4e63-8934-487ac65f3e28</webElementGuid>
+      <webElementGuid>2b0680dc-1634-4fc7-a69c-b743c072546b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -124,47 +124,47 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f14f66d1-a960-4524-9624-181e43ea12a3</webElementGuid>
+      <webElementGuid>1cbc1cc4-acc4-4af8-87c1-f1e2de9dfdd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>58</value>
-      <webElementGuid>f7d5b2b5-1c2e-495c-a090-0a6103b499d7</webElementGuid>
+      <value>170</value>
+      <webElementGuid>3ecc688a-ad43-47aa-8868-d996c37b236b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>1835</value>
-      <webElementGuid>f32d6122-9d86-4029-95d7-ae866a885269</webElementGuid>
+      <value>394</value>
+      <webElementGuid>26fc06a8-7f23-4e06-a453-6a9d586ff25b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>424</value>
-      <webElementGuid>6481b8c6-e4f6-4892-8f1c-473a60cb049b</webElementGuid>
+      <value>768</value>
+      <webElementGuid>e562c77d-a417-45b9-b626-bc669b9d73b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>129</value>
-      <webElementGuid>86777a83-e44f-455d-90ce-791b25f499e7</webElementGuid>
+      <value>65</value>
+      <webElementGuid>e3f1f0d1-4a89-42fb-8c30-0a7df9ef6ea7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[58,1835][482,1964]</value>
-      <webElementGuid>57c74c27-bdff-409e-b2ba-66ef8b73f9ca</webElementGuid>
+      <value>[170,394][938,459]</value>
+      <webElementGuid>1e846e3b-3395-484d-be04-4c8faa20d8ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -172,16 +172,16 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>ac6c88e0-7778-46e3-8f4a-548548d041f0</webElementGuid>
+      <webElementGuid>b2bc7eac-e9e8-4444-83aa-9ea32a4212a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.view.ViewGroup[5]/android.view.ViewGroup[1]/android.widget.TextView[1]</value>
-      <webElementGuid>275002a6-a1fb-41f7-bfdb-1a997f10574c</webElementGuid>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.view.ViewGroup[2]/android.widget.TextView[1]</value>
+      <webElementGuid>75c939f8-4523-4639-af0a-de20e930aedc</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.TextView' and (@text = 'STARVIT 15 ML DUS 10 SACHET' or . = 'STARVIT 15 ML DUS 10 SACHET') and @resource-id = 'com.kimiafarma.online:id/tv_product_name']</locator>
+   <locator>//*[@class = 'android.widget.TextView' and (@text = 'Test Pack' or . = 'Test Pack') and @resource-id = 'com.kimiafarma.online:id/tv_title_suggestion']</locator>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>
 </MobileElementEntity>

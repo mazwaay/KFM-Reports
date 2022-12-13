@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>Item_Hamil</name>
+   <name>assertPoint_Test-Pack</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -12,7 +12,7 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.TextView</value>
-      <webElementGuid>0f4ee5e1-dc3c-4c0c-8556-182dd7501ade</webElementGuid>
+      <webElementGuid>26fb05ad-cea5-46e5-a474-4b39d8f8fde4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -20,15 +20,15 @@
       <name>index</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>46baa357-fc85-4247-9719-4caad6b69052</webElementGuid>
+      <webElementGuid>df43a6b9-e568-40f6-86d4-3ee70ebabc6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>SENSITIF STRIP UC TES KEHAMILAN</value>
-      <webElementGuid>eaf2d85d-bca2-47f0-abcc-c487ff7b0796</webElementGuid>
+      <value>LOVE TEST STRIP UJI KEHAMILAN</value>
+      <webElementGuid>673dcbec-7840-47a7-9185-5f8f07426ab8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,7 +36,7 @@
       <name>resource-id</name>
       <type>Main</type>
       <value>com.kimiafarma.online:id/tv_product_name</value>
-      <webElementGuid>ebe1ef60-1542-42d0-b6c7-04529fb07f8d</webElementGuid>
+      <webElementGuid>fb28470e-bf59-4eb9-9e65-c9dd585da0af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,7 +44,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.kimiafarma.online</value>
-      <webElementGuid>9987b2b7-d211-4bfc-b818-34596dd45505</webElementGuid>
+      <webElementGuid>643a22c0-6b0d-43aa-8d72-046df2be29cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ce36ecfc-fbaa-4833-8857-6c0f44e22775</webElementGuid>
+      <webElementGuid>86f9f824-0081-484c-b554-1f052dcc06c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +60,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>031e307e-38f1-473e-a995-a904a1e6b20e</webElementGuid>
+      <webElementGuid>527792ed-ed79-47c2-8103-8dd58d08ba12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c3f81726-221f-4223-a88a-931da5b0dafa</webElementGuid>
+      <webElementGuid>854d5b32-2275-4fc0-8567-6fa65feb5e8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>17d0df69-9915-412b-bebd-d18547c55fb5</webElementGuid>
+      <webElementGuid>2341a1f5-8d69-4ef7-b8a4-9ec385e57551</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1483bd6d-8993-43c9-82ef-c35b8f6dd546</webElementGuid>
+      <webElementGuid>ced8390b-f70d-49d4-a4f7-bfb73848c912</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>933fb16f-0dce-4474-b3f3-f8b2df214c08</webElementGuid>
+      <webElementGuid>ffadceba-303d-489c-961a-0204a6abd25b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>fbefc6a4-5b21-4472-9322-8de639c6e7df</webElementGuid>
+      <webElementGuid>58cf8cf1-0e94-4e93-9d07-31e80ff7635d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5d04ced1-b0db-4adb-9b2a-ee2662ac2938</webElementGuid>
+      <webElementGuid>d1329de0-fb7d-4d25-8361-e94bac296507</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>bf86de5f-b625-4866-88af-08a60cd8c1a1</webElementGuid>
+      <webElementGuid>a723a985-a043-4f28-8e0e-b5ad8fcabc36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -124,7 +124,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ea491eb5-7163-43b4-b1b2-2f2bc7b3f639</webElementGuid>
+      <webElementGuid>5d60aef3-aab2-41bb-b31d-97ece2953a33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -132,15 +132,15 @@
       <name>x</name>
       <type>Main</type>
       <value>58</value>
-      <webElementGuid>77aacb91-ffd6-4d8d-a48d-7a4431468980</webElementGuid>
+      <webElementGuid>5c04d925-3d05-4465-8b25-9315835a7deb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>1367</value>
-      <webElementGuid>730eccfa-005c-40dd-b0c7-add677266b3b</webElementGuid>
+      <value>852</value>
+      <webElementGuid>e124354c-72c3-410f-9ef2-2c82b5d56e7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -148,7 +148,7 @@
       <name>width</name>
       <type>Main</type>
       <value>424</value>
-      <webElementGuid>657c163d-86e4-4559-b465-ee2ddfb7b729</webElementGuid>
+      <webElementGuid>2ec30d6c-474e-4fca-97c4-acd167471de3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -156,15 +156,15 @@
       <name>height</name>
       <type>Main</type>
       <value>129</value>
-      <webElementGuid>0c18a8bf-1132-4931-b1d0-186772c187e6</webElementGuid>
+      <webElementGuid>e2ec25f5-a2db-4fe6-8800-e01f000242a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[58,1367][482,1496]</value>
-      <webElementGuid>b93d62bf-2419-43bd-82fd-43d98f709312</webElementGuid>
+      <value>[58,852][482,981]</value>
+      <webElementGuid>a9d2ce77-b3c1-415d-ab4b-6fc3d53db519</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -172,16 +172,16 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>b0c369ea-d56b-4610-ba74-5a98db2eaed9</webElementGuid>
+      <webElementGuid>345feea3-7a43-4938-b268-ccdfd576d95d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.view.ViewGroup[3]/android.view.ViewGroup[1]/android.widget.TextView[1]</value>
-      <webElementGuid>6420b0c7-8d70-4455-8f1a-ff701d658a83</webElementGuid>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.TextView[1]</value>
+      <webElementGuid>ffbf2508-919b-4204-92fd-a5b4f62329c9</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.TextView' and (@text = 'SENSITIF STRIP UC TES KEHAMILAN' or . = 'SENSITIF STRIP UC TES KEHAMILAN') and @resource-id = 'com.kimiafarma.online:id/tv_product_name']</locator>
+   <locator>//*[@class = 'android.widget.TextView' and (@text = 'LOVE TEST STRIP UJI KEHAMILAN' or . = 'LOVE TEST STRIP UJI KEHAMILAN') and @resource-id = 'com.kimiafarma.online:id/tv_product_name']</locator>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>
 </MobileElementEntity>

@@ -29,7 +29,7 @@ Mobile.setText(findTestObject('KFM Objects/searchObat'), 'batuk', 0)
 
 Mobile.tap(findTestObject('KFM Objects/tagName_Batuk-Pilek'), 0)
 
-Mobile.scrollToText('ALPARA STRIP 10 KAPLET', FailureHandling.STOP_ON_FAILURE)
+Mobile.verifyElementText(findTestObject('KFM Objects/assertPoint_Batuk-Pilek'), 'PARATUSIN STRIP 10 TABLET')
 
 Mobile.pressBack()
 
@@ -39,11 +39,7 @@ Mobile.setText(findTestObject('KFM Objects/searchObat'), 'pusing', 0)
 
 Mobile.tap(findTestObject('KFM Objects/tagName_Mual-Muntah'), 0)
 
-Mobile.scrollToText('STARVIT 15 ML DUS 10 SACHET', FailureHandling.STOP_ON_FAILURE)
-
-Mobile.pressBack()
-
-Mobile.tap(findTestObject('KFM Objects/deleteName_Search'), 0)
+Mobile.verifyElementText(findTestObject('KFM Objects/assertPoint_Mual-Muntah'), 'ANTIMO STRIP 10 TABLET')
 
 Mobile.pressBack()
 
@@ -51,11 +47,9 @@ Mobile.tap(findTestObject('KFM Objects/deleteName_Search'), 0)
 
 Mobile.setText(findTestObject('KFM Objects/searchObat'), 'hamil', 0)
 
-Mobile.tap(findTestObject('KFM Objects/tagName_Hamil'), 0)
+Mobile.tap(findTestObject('KFM Objects/tagName_Test-Pack'), 0)
 
-Mobile.scrollToText('SENSITIF STRIP UC TES KEHAMILAN', FailureHandling.STOP_ON_FAILURE)
+Mobile.verifyElementText(findTestObject('KFM Objects/assertPoint_Test-Pack'), 'LOVE TEST STRIP UJI KEHAMILAN')
 
-Mobile.pressBack()
-
-Mobile.tap(findTestObject('KFM Objects/deleteName_Search'), 0)
+Mobile.closeApplication()
 
